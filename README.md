@@ -1,2 +1,4 @@
 # PickMe-KPMB-App-Mobile-Development
-Read more...
+Android is the most popular mobile operating system in the world, with over two billion active users. Android OS has been dominating the market for a while now and there are around 2+ million apps available for Android as of 2023. Over 72% of smartphones on the earth work on Android OS. Additionally android OS allows companies /institutes /organizations to develop customized android apps to interact with their customers/students/followers 24/7 through android apps. A wide variety of successful online business ideas can be developed using android apps.
+As an android developer you are required to build a mobile application of your choice that may help students and staff in KPM Beranang in making their everyday life easier. Your apps may vary from grievance app such as College Campus for Hostel, Food, Admin, educational games or quizzes, location-based system, online application, e-voting apps, etc. You may find your partner to conduct the project.
+Remember - the app must be useful, entertaining, and well developed.
